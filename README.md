@@ -4,15 +4,15 @@
 
 ---
 
-## 🚀 **Features**  
-- 🔒 **User Authentication & Authorization**  
-- 📦 **Shipment Management**  
-- 🗂️ **Document Management**  
-- 🌐 **Real-time Carrier Integration**  
-- 📊 **Rate Comparison**  
-- 🗓️ **Schedule Management**  
-- ✅ **Document Upload & Verification**  
-
+✅ MVP Features 
+Feature	Description
+🔒 User Authentication	Secure signup/login using JWT authentication
+📦 Shipment Management	Create, update, and track shipments with carrier integration
+🗂️ Document Management	Upload, verify, and manage export documents (Invoice, Packing List, etc.)
+🌐 Carrier Integration	Fetch live shipping rates and schedules from available carriers
+📊 Rate Comparison	Compare rates between multiple carriers to choose the best option
+🗓️ Schedule Management	View and manage upcoming shipment schedules
+✅ Document Verification	Validate uploaded documents via automated checks
 ---
 
 ## 🛠️ **Tech Stack**  
